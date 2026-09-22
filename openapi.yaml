@@ -36,7 +36,7 @@ paths:
                 $ref: '#/components/schemas/EquipmentListResponse'
 
         '500':
-          description: Terjadi kesalahan pada server backe
+          description: Terjadi kesalahan pada server backend
           content:
             application/json:
               schema:
